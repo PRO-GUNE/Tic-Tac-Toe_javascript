@@ -1,0 +1,40 @@
+
+/*Table styling*/
+table {
+    border: solid black 5px;
+    border-collapse: collapse;
+    position: relative;
+    margin: 20px;
+    top: 4vmin;
+    left: 35vw;
+}
+
+td {
+    border: solid black 5px;
+    border-collapse: collapse;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+}
+
+/* X class */
+.X {
+    background-color: lightblue;
+    font-size: 25px;
+}
+
+/* O class */
+.O {
+    background-color: lightgreen;
+    font-size: 25px;
+}
+
+/* h1 tag */
+h1 {
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
